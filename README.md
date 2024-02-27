@@ -2,4 +2,5 @@
 <br>
 These are my TypeScript Projects. I created this projects as a student of Governer IT initiative for Cloud Applied Generative AI Engineer.
 <br>
+<hr />
 My project files are in master branch.
